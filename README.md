@@ -3,7 +3,9 @@
 Use the Adiabatic Principle to solve for the ground state(s) of the Ising model
 with a quantum circuit.
 
-
+- Notebook 1 introduces the basic postulates
+- Notebook 2 presents a simple introduction to gates
+- Notebook 3 demonstrates the implementation
  
 ### Installation
 1. Download
@@ -21,5 +23,5 @@ with a quantum circuit.
         pip install -r requirements.txt
 
 4. Start Jupyter tests
-    
-       	jupyter-lab 
+ 
+        jupyter-lab
